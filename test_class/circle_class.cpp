@@ -1,4 +1,4 @@
-//main.h
+//circle_class.cpp
 //2014. 7. 23
 //by lichao
 
